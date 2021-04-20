@@ -23,13 +23,12 @@ title: FOSSLight
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description: >
-  FOSSLight is the Open Source Project for Open Source Compliance Management.
+# description: >
+#  FOSSLight is the Open Source Project for Open Source Compliance Management.
 
 # A shorter description for the sidebar.
 tagline: >
-  Open Source Project
-  for Open Source Compliance Management
+  Open Source Project for Open Source Compliance Management
 
 # A list of keywords for your blog
 keywords: []
@@ -48,6 +47,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title: FOSSLight
+    url: /
   - title: Scanner
     url: /scanner/
   - title: Guide
