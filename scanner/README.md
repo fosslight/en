@@ -66,8 +66,8 @@ FOSSLight Scanner can perform to analysis for open source compliance at once. It
 
 FOSSLight Scanner Projects **inherit** the other open source projects.
 
-- FOSSLight Source can be scanned using the **[scancode-toolkit](https://github.com/nexB/scancode-toolkit)**.
-- FOSSLight Dependency can be analysed the dependency using the following open source.
+- FOSSLight Source can scan using the **[scancode-toolkit](https://github.com/nexB/scancode-toolkit)**.
+- FOSSLight Dependency can analyze the dependency using the following open source.
   - NPM : **[NPM License Checker](https://github.com/davglass/license-checker)**
   - Pypi : **[pip-licenses](https://github.com/raimon49/pip-licenses)**
   - Gradle : **[License Gradle Plugin](https://github.com/hierynomus/license-gradle-plugin)**
@@ -79,7 +79,7 @@ FOSSLight Scanner Projects **inherit** the other open source projects.
 - **FOSSLight Source** : [https://github.com/fosslight/fosslight_source](https://github.com/fosslight/fosslight_source)
 - **FOSSLight Dependency** : [https://github.com/fosslight/fosslight_dependency](https://github.com/fosslight/fosslight_dependency)
 
-- Projects to be released
+- Projects to be released soon
   - FOSSLight Binary
   - FOSSLight Scanner
   - FOSSLight Reuse
