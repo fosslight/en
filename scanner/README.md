@@ -14,7 +14,7 @@ permalink: /scanner/
 
 ![](../assets/img/fosslight_scanner.jpg)
 
-FOSSLight Scanner can perform to analysis for open source compliance at once. It can perform the open source analysis of source code, binary and dependency. Also, it can check whether or not it complies with the copyright/license writing rule.
+FOSSLight Scanner can perform an analysis for open source compliance at once. It can perform open source analysis of source code, binary and dependency. Also, it can check whether an open source complies with the copyright/license writing rule.
 
 ## Features
 
@@ -42,7 +42,7 @@ FOSSLight Scanner can perform to analysis for open source compliance at once. It
         <img src="https://img.icons8.com/wired/64/000000/workspace-one.png"/>
       </div>
       <div id="feature_content">
-        It can work from one command line through one integrated package.
+        It can work from one command line through a single integrated package.
       </div>
     </div>
   </div>
@@ -56,7 +56,7 @@ FOSSLight Scanner can perform to analysis for open source compliance at once. It
         <img src="https://img.icons8.com/dotty/80/000000/module.png"/>
       </div>
       <div id="feature_content">
-        The scanner module can be used independently and lighter.
+        The scanner module can be used independently and lightly.
       </div>
     </div>
   </div>
@@ -64,10 +64,10 @@ FOSSLight Scanner can perform to analysis for open source compliance at once. It
 
 ## Description
 
-FOSSLight Scanner Projects **inherit** the other open source projects.
+FOSSLight Scanner Projects **inherit** other open source projects.
 
 - FOSSLight Source can scan using the **[scancode-toolkit](https://github.com/nexB/scancode-toolkit)**.
-- FOSSLight Dependency can analyze the dependency using the following open source.
+- FOSSLight Dependency can analyze the dependency using the following open source software.
   - NPM : **[NPM License Checker](https://github.com/davglass/license-checker)**
   - Pypi : **[pip-licenses](https://github.com/raimon49/pip-licenses)**
   - Gradle : **[License Gradle Plugin](https://github.com/hierynomus/license-gradle-plugin)**
