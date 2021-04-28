@@ -6,10 +6,10 @@ sitemap: false
 permalink: /demo/
 ---
 
-## FOSSLight System
+## FOSSLight Demo
 
-You can experience the FOSSLight System through the [Demo site](https://demo.fosslight.org/).
-Please visit the Demo site and try out the many features of the FOSSLight System for yourself!
+You can experience the FOSSLight through the [Demo site](https://demo.fosslight.org/).
+Please visit the Demo site and try out the many features of the FOSSLight for yourself!
 
 ### 0) Demo URL
 
@@ -23,5 +23,5 @@ First, create the account with 'SignUp' button and login the system.
 
 ### 2) Try it
 
-We provide the [FOSSLight System guide](https://github.com/fosslight) to make it easier, simpler and more convenient for many to use.
-Try everything you want to do with FOSSLight System!
+We provide the [FOSSLight guide](https://fosslight.org/fosslight-system-guide/) to make it easier, simpler and more convenient for many to use.
+Try everything you want to do with FOSSLight!
