@@ -206,3 +206,9 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+korean:
+  name: Korean
+  icon: icon-earth
+english:
+  name: English
+  icon: icon-earth
