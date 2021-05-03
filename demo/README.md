@@ -21,6 +21,11 @@ Please visit the Demo site and try out the many features of the FOSSLight first-
 First, create an account with 'SignUp' button and log in to the system.
 ![FOSSLight Demo](../assets/img/demo/fosslight_demo_site_login.JPG){: width="700" height="500"}{: .center}
 
+> (Sample) Admin Account: You can experience admin mode through the following admin account.
+> - ID: admin
+> - PW: admin
+> {:.lead}
+
 ### 2) Try it
 
 We provide the [FOSSLight guide](https://fosslight.org/fosslight-system-guide/) to make FOSSLight easier, simpler and more convenient for many to use.
