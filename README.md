@@ -13,7 +13,7 @@ This is the homepage that introduces the FOSSLight Open Source Project.
 
 ## License
 
-Copyright (c) 2021 FOSSLight
+Copyright (c) 2021 LG Electronics
 
 - Source codes in this site are licensed under [GPL-3.0](LICNESE.md).
 - Feature icons by [Icons8](https://icons8.com/icon)
