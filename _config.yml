@@ -24,7 +24,7 @@ title: FOSSLight
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  FOSSLight is the Open Source Project for Open Source Compliance Management.
+  Open Source Project for Open Source Compliance Management.
 
 # A shorter description for the sidebar.
 tagline: >
@@ -37,6 +37,9 @@ keywords: []
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
 logo: /assets/img/logo.png
+
+# meta image
+image: /assets/img/meta_image.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
