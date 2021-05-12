@@ -86,6 +86,9 @@ paginate_path: /:num/
 # theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.1.4
 
+# Google analytics
+google_analytics: G-HHSE64ESXS
+
 # Customizaton
 # ----------------------------------------------------------------------------------------
 
