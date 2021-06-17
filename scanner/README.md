@@ -76,8 +76,8 @@ FOSSLight Scanner Projects **inherit** other open source projects.
 
 ## Scanner Projects
 
-- **FOSSLight Source Scanner** : [https://github.com/fosslight/fosslight_source](https://github.com/fosslight/fosslight_source)
-- **FOSSLight Dependency Scanner** : [https://github.com/fosslight/fosslight_dependency](https://github.com/fosslight/fosslight_dependency)
+- **FOSSLight Source Scanner** : [https://github.com/fosslight/fosslight_source_scanner](https://github.com/fosslight/fosslight_source_scanner)
+- **FOSSLight Dependency Scanner** : [https://github.com/fosslight/fosslight_dependency_scanner](https://github.com/fosslight/fosslight_dependency_scanner)
 
 - Projects to be released soon
   - FOSSLight Binary Scanner
