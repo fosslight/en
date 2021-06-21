@@ -81,7 +81,7 @@ FOSSLight Scanner Projects **inherit** other open source projects.
 
 - Projects to be released soon
   - FOSSLight Binary Scanner
-  - FOSSLight Reuse Scanner
+  - FOSSLight REUSE
   - FOSSLight Scanner
 
 ## License
