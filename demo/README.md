@@ -29,3 +29,7 @@ First, create an account with 'SignUp' button and log in to the system.
 
 We provide the [FOSSLight guide](https://fosslight.github.io/fosslight-guide-en/) to make FOSSLight easier, simpler and more convenient for many to use.
 Try out everything you want to with FOSSLight yourself!
+
+
+### Video for how to use FOSSLight at LG Electronics
+<iframe width="720" height="480" src="https://www.youtube.com/embed/CTxY876GzCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
