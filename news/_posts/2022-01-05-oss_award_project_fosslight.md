@@ -6,7 +6,7 @@ description: >
 hide_last_modified: true
 ---
 
-At the 19th [Northeast Asia OSS Promotion Forum](https://www.oss.kr/nea_forum), FOSSLight was introduced under the theme of 'Open Source Governance complete with FOSSLight'. Please note that the presentation video is provided with Chinese and Japanese subtitles. I'm pleased inform that FOSSLight won the 15th OSS Award Project award at this event. Please join us in congratulating this award! 🎊🎉
+At the 19th [Northeast Asia OSS Promotion Forum](https://www.oss.kr/nea_forum), FOSSLight was introduced under the theme of 'Open Source Governance with FOSSLight'. Please note that the presentation video is provided with Chinese and Japanese subtitles. I'm pleased inform that FOSSLight won the 15th OSS Award Project award at this event. Please join us in congratulating this award! 🎊🎉
 
 ![](../../assets/img/news/FOSSLight_oss_award_project.jpg)
 
