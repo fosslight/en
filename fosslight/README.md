@@ -17,49 +17,7 @@ If you want to know more information about open source compliance, then you can 
 
 ## Features
 
-<div class="flex-container">
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Compliance Workflow
-      </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/pastel-glyph/50/000000/workflow-cycle--v1.png"/>
-      </div>
-      <div id="feature_content">
-        It can process the open source compliance workflow.
-      </div>
-    </div>
-  </div>
-
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Compliance Hub
-      </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/wired/64/000000/hub.png"/>
-      </div>
-      <div id="feature_content">
-        You can manage everything about open source compliance such as license, oss, vulnerability and others.
-      </div>
-    </div>
-  </div>
-
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Scalability
-      </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/wired/64/000000/plugin.png"/>
-      </div>
-      <div id="feature_content">
-        It can be used with additional features (including FOSSLight scanner or other plugins).
-      </div>
-    </div>
-  </div>
-</div>
+<img src="../assets/img/feature_eng.png" alt="Features"><br>
 
 ## Documentation
 
