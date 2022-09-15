@@ -67,6 +67,7 @@ FOSSLight Scanner can perform an analysis for open source compliance at once. It
 
 FOSSLight Scanner Projects **inherit** other open source projects.
 
+- FOSSLight Prechecker can check reuse compliance by using the **[reuse-tool](https://github.com/fsfe/reuse-tool)**.
 - FOSSLight Source Scanner can scan using the **[scancode-toolkit](https://github.com/nexB/scancode-toolkit)** and **[scanoss.py](https://github.com/scanoss/scanoss.py)**.
 - FOSSLight Dependency Scanner can analyze the dependency using the following open source software.
   - NPM : **[NPM License Checker](https://github.com/davglass/license-checker)**
@@ -75,14 +76,15 @@ FOSSLight Scanner Projects **inherit** other open source projects.
   - Maven : **[license-maven-plugin](https://github.com/mojohaus/license-maven-plugin)**
   - Pub : **[flutter_oss_licenses](https://github.com/espresso3389/flutter_oss_licenses)**
   - Android(gradle) : **[android-dependency-scanning](https://github.com/fosslight/android-dependency-scanning)**
+- FOSSLight Binary Scanner can analyze the open source info. in '.jar' file by using **[Dependency-check-py](https://github.com/jhermann/dependency-check-py)**.
 
 ## Scanner Projects
 
+- [**FOSSLight Scanner**](https://github.com/fosslight/fosslight_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_scanner/blob/main/LICENSE))
+- [**FOSSLight Prechecker**](https://github.com/fosslight/fosslight_prechecker) (License: [**GPL-3.0-only**](https://github.com/fosslight/fosslight_prechecker/tree/main/LICENSES))
 - [**FOSSLight Source Scanner**](https://github.com/fosslight/fosslight_source_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_source_scanner/blob/main/LICENSE))
 - [**FOSSLight Dependency Scanner**](https://github.com/fosslight/fosslight_dependency_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_dependency_scanner/blob/main/LICENSE))
-- [**FOSSLight Reuse**](https://github.com/fosslight/fosslight_reuse) (License: [**GPL-3.0-only**](https://github.com/fosslight/fosslight_reuse/blob/main/LICENSE))
 - [**FOSSLight Binary Scanner**](https://github.com/fosslight/fosslight_binary_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_binary_scanner/blob/main/LICENSE))
-- [**FOSSLight Scanner**](https://github.com/fosslight/fosslight_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_scanner/blob/main/LICENSE))
 
 <br/>
 <br/>
