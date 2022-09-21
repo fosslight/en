@@ -13,7 +13,7 @@ permalink: /fosslight/
 
 <img src="../assets/img/fosslight_hub.png" alt="FOSSLight Hub"><br>
 FOSSLight Hub helps you use the open source software compliantly and securely by managing open source, license and also vulnerability. Also it can process the OSC (Open Source Compliance) process by managing BOM for each project and track issues on open source license obligations and vulnerabilities.  <br>  
-If you want to know more information about open source compliance, then you can refer the <a href="https://opensource.lge.com/guide/10"><b>OSC Process Guide</b></a>.
+If you want to know more information about open source compliance, then you can refer the <a href="https://opensource.lge.com/guide/10?lang=en"><b>OSC Process Guide</b></a>.
 
 ## Features
 
