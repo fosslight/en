@@ -18,46 +18,38 @@ permalink: /scanner/
 FOSSLight Scanner can perform an analysis for open source compliance at once. It can perform open source analysis of source code, binary and dependency and generate the report that contains the open source information that can be extracted. You can use the report file with [FOSSLight Hub](/fosslight). Also, it can check whether an open source complies with the copyright/license writing rule.
 
 ## Features
-
-<div class="flex-container">
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Inclusive Scanning
+<div class="row">
+  <div class="column">
+    <div class="feature_card">
+      <div class="icon-wrapper">
+        <i class="fa-solid fa-magnifying-glass"></i>
       </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/dotty/80/000000/check-all.png"/>
-      </div>
-      <div id="feature_content">
-        It can detect source code, binary as well as dependency.
+      <h3>Improving<br>Analysis Accuracy</h3>
+      <div class="feature_content">
+        <p>It supports source code string detection and snippet matching, and also supports binary analysis as well as dependency analysis for various package managers to increase the accuracy of open source analysis.
+        </p>
       </div>
     </div>
   </div>
-
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Integrated One
+  <div class="column">
+    <div class="feature_card">
+      <div class="icon-wrapper">
+        <i class="fas fa-gears"></i>
       </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/wired/64/000000/workspace-one.png"/>
-      </div>
-      <div id="feature_content">
-        It can work from one command line through a single integrated package.
+      <h3>Fast & Light Independent Module</h3>
+      <div class="feature_content">
+        <p>Each scanner can run independently, so you can run only the target you want to scan (ex, source code, binary, dependency) quickly and lightly.</p>
       </div>
     </div>
   </div>
-
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Independent Module
+  <div class="column">
+    <div class="feature_card">
+      <div class="icon-wrapper">
+        <i class="fa-solid fa-share-nodes"></i>
       </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/dotty/80/000000/module.png"/>
-      </div>
-      <div id="feature_content">
-        The scanner module can be used independently and lightly.
+      <h3>Scalability<br>through Hub</h3>
+      <div class="feature_content">
+        <p>Output file of scanners is directly available in the Hub, so you can use the open source information management functions and also generate SBOM.</p>
       </div>
     </div>
   </div>
