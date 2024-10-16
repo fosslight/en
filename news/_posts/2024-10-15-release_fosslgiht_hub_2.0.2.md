@@ -12,12 +12,12 @@ This version is the official 2.0 release,
 including the new UI from the pre-release and significant database (DB) updates.
 
 FOSSLight Hub 2.0 brings a more intuitive user interface (UI) and enhanced features for better usability. 
-We’ve also included updates like Restriction data aligned with the Osori project and more.
+We’ve also included updates like Restriction data aligned with the OSORI project and more.
 
 Here’s a quick summary of the key changes:
 
 - **Enhanced License and Open Source Information**
-  - Restriction data updated for the Osori project 
+  - Restriction data updated for the OSORI project 
   - Added Restriction and Source Code Disclosing Scope information to License data 
   - Added Restriction info to Open Source data 
   - Improved Open Source Vulnerability matching logic (including CPE, excluding CPE, version alias)
