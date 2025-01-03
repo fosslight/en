@@ -36,3 +36,9 @@ FOSSLight Hub is licensed under <a href="https://opensource.org/licenses/AGPL-3.
 
 Join to FOSSLight Community on Slack! : [**https://fosslight.slack.com**](https://fosslight.slack.com)  
 You can also post bug reports and feature requests in [**Github issues**](https://github.com/fosslight/fosslight/issues).
+
+
+## Release Notes
+
+You can check the latest release notes in
+[**Release Notes (English version)**](https://github.com/fosslight/fosslight/blob/main/RELEASE_NOTES.md).
