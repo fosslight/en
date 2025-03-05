@@ -10,7 +10,7 @@ The Fosslight Hub version 2.2.0 has been released. This update includes new feat
 
 
 **⭐️3rd Party**  
-New 3rd Party Information and 3rd Party Identification features have been added.This makes it easier for users to find 3rd party information and OSS details in the BOM tab.Additionally, a new feature called 3rd Party BOM Compare has been added, allowing users to compare different BOMs.
+The "3rd Party Information" and "3rd Party Identification" have been separated into distinct tabs.This makes it easier for users to find 3rd party information and OSS details in the BOM tab.Additionally, a new feature called 3rd Party BOM Compare has been added, allowing users to compare different BOMs.
 
 **⭐️Project**  
 A "change status" feature has been added, allowing users to update the status of multiple projects at the same time. The conditions for BOM merging have been modified, making it easier to manage obligations based on different licenses.
