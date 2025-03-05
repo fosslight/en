@@ -27,7 +27,7 @@ The display of 'OSS Important Notes' information has been improved, and links ha
 The renaming of OSS can now only be done on the detailed screen, and users can modify the name solely through the edit button. This makes the process of changing both the nickname and the full version name clearer. Additionally, the initial display of the list is now sorted in descending order based on the modified date.
 
 
-📦[Release Note](https://github.com/fosslight/fosslight/blob/main/docs/RELEASE_NOTES_kor.md#220-2025-02-19)  
+📦[Release Note](https://github.com/fosslight/fosslight/blob/develop/RELEASE_NOTES.md#220-2025-02-19)  
 For more changes and bug fixes, please refer to the Release Notes.
 
 With the enhanced features of FOSSLight 2.2.0, we expect to perform open source-related tasks more efficiently. We hope your valuable feedback will contribute to the development of FOSSLight. Please share your opinions with us!
