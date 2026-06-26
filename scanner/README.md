@@ -64,7 +64,7 @@ FOSSLight Scanner Projects **inherit** other open source projects.
 - FOSSLight Dependency Scanner can analyze the dependency using the following open source software.
   - NPM : **[NPM License Checker](https://github.com/davglass/license-checker)**
   - Pypi : **[pip-licenses](https://github.com/raimon49/pip-licenses)**
-  - Gradle : **[License Gradle Plugin](https://github.com/hierynomus/license-gradle-plugin)**
+  - Gradle : **[License Gradle Plugin](https://github.com/jk1/Gradle-License-Report)**
   - Maven : **[license-maven-plugin](https://github.com/mojohaus/license-maven-plugin)**
   - Pub : **[flutter_oss_licenses](https://github.com/espresso3389/flutter_oss_licenses)**
   - Android(gradle) : **[android-dependency-scanning](https://github.com/fosslight/android-dependency-scanning)**
