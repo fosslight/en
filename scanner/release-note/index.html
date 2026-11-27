@@ -335,7 +335,7 @@
   }
 
   /* ── No updates ── */
-  .no-update {
+  .no-update-message {
     padding: 48px 24px;
     color: var(--text-dim);
     font-size: 14px;
@@ -701,7 +701,7 @@
 </div>
 
 <div class="footer">
-  FOSSLight Scanner Release Note · 2026-11-27 15:28 KST
+  FOSSLight Scanner Release Note · 2026-11-27 15:38 KST
 </div>
 
 <!-- ── 데이터 ── -->
@@ -758,7 +758,7 @@ function renderDetail(s) {
 
   const hasAny = s.releases.some(r => r.user_facing.length > 0);
   if (!hasAny) {
-    html += `<div class="no-update">No user-facing updates since ${esc(s.since_tag)}</div>`;
+    html += `<div class="no-update-message">No user-facing updates since ${esc(s.since_tag)}</div>`;
     return html;
   }
 
